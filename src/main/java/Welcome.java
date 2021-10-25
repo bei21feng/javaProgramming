@@ -62,5 +62,8 @@ public class Welcome {
         double x = Math.rint(5.5);
         System.out.println(x);
 
+        CharString charString = new CharString();
+        charString.charProg();
+
     }
 }
