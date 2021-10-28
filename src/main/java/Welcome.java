@@ -12,6 +12,10 @@ public class Welcome {
 
         //LearnLoop.learnLoop();
 
-        LearnArray.learnArray();
+        //LearnArray.learnArray();
+
+        //LearnMatrix.learnMatrix();
+
+        TicTacToe.ticTacToe();
     }
 }
