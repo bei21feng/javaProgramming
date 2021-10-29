@@ -1,3 +1,5 @@
+package indi.bill.javaprogramming.learnbasic;
+
 import java.util.Scanner;
 
 public class LearnChar {

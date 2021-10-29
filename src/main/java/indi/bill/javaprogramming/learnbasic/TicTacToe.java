@@ -1,3 +1,5 @@
+package indi.bill.javaprogramming.learnbasic;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -33,7 +35,7 @@ public class TicTacToe {
 
     }
     public static void welcome() {
-        System.out.println("Welcome to game Tic-Tac-Toe");
+        System.out.println("indi.bill.javaprogramming.learnbasic.Welcome to game Tic-Tac-Toe");
         System.out.println("your piece is x");
         System.out.println("location you should enter for example:");
         System.out.println("2 3");

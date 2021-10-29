@@ -1,4 +1,4 @@
-// convert hex to dec digit
+package indi.bill.javaprogramming.learnbasic;// convert hex to dec digit
 import java.util.Scanner;
 
 public class HexDigit2Dec {

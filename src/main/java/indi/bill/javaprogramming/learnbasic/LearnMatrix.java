@@ -1,3 +1,5 @@
+package indi.bill.javaprogramming.learnbasic;
+
 public class LearnMatrix {
     public static void learnMatrix() {
         int[][] triangleArr1 = {

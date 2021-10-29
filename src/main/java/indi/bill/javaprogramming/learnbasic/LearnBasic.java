@@ -1,3 +1,5 @@
+package indi.bill.javaprogramming.learnbasic;
+
 public class LearnBasic {
     public static void learnBasic(){
         long totalMilliseconds = System.currentTimeMillis();

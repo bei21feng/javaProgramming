@@ -1,9 +1,11 @@
+package indi.bill.javaprogramming.learnbasic;
+
 import java.util.Scanner;
 
 public class LearnString {
     public static void stringProg(){
         // get the length of a string
-        String message = "Welcome to Java";
+        String message = "indi.bill.javaprogramming.learnbasic.Welcome to Java";
         System.out.println(message.length());
 
         // charAt
@@ -61,7 +63,7 @@ public class LearnString {
         System.out.println("1" + (1 + 1));
         System.out.println('1' + 1 + 1);
 
-        System.out.println(1 + "Welcome" + ('\u0001' + 1));
+        System.out.println(1 + "indi.bill.javaprogramming.learnbasic.Welcome" + ('\u0001' + 1));
         System.out.println(1 + "welcome" + 'a' + 1);
         System.out.println("\u048a");
 
